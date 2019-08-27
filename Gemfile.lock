@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    engtagger (0.2.1)
+    madlibber (0.0.8)
+      engtagger
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  madlibber
+
+BUNDLED WITH
+   2.0.2
