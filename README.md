@@ -7,3 +7,5 @@ Generates a non-trademarked word replacement game using [madlibber](https://gith
 2. Update the new file with your api key
 3. Run `bundle install` to get the dependencies
 4. Run `vgwordreplacement.rb`
+
+btw this only sort of works
